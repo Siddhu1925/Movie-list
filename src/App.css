@@ -19,3 +19,14 @@ th {
   background-color: #555;
   color: white;
 }
+button{
+ height: 40px;
+ cursor: pointer;
+ border: none;
+ border-radius: 5px;
+ background-color: #e4e4e4;
+}
+button:hover{
+  background: grey;
+  cursor: pointer;
+}
