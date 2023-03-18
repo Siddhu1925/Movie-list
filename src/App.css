@@ -14,6 +14,9 @@ th, td {
   padding: 10px;
   border: 1px solid black;
 }
+tr:hover{
+  background-color: grey;
+}
 
 th {
   background-color: #555;
@@ -30,3 +33,5 @@ button:hover{
   background: grey;
   cursor: pointer;
 }
+
+
